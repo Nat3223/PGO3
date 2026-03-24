@@ -7,8 +7,8 @@ public class Main {
         Reader reader1 = new Reader("Anna", "Kowalska", "R001");
         Reader reader2 = new Reader("Jan", "Nowak", "R002");
 
-        //Library library = new Library(10);
-/*
+        Library library = new Library(10);
+
         library.addBook(book1);
         library.addBook(book2);
         library.addBook(book3);
@@ -44,6 +44,6 @@ public class Main {
         System.out.println();
 
         System.out.println("=== READER DATA AFTER RETURN ===");
-        reader1.printData(); */
+        reader1.printData();
     }
 }
