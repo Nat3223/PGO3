@@ -4,8 +4,8 @@ public class Main {
         Book book2 = new Book("1984", "George Orwell", 328, true);
         Book book3 = new Book("Clean Code", "Robert C. Martin", 464, true);
 
-        //Reader reader1 = new Reader("Anna", "Kowalska", "R001");
-        //Reader reader2 = new Reader("Jan", "Nowak", "R002");
+        Reader reader1 = new Reader("Anna", "Kowalska", "R001");
+        Reader reader2 = new Reader("Jan", "Nowak", "R002");
 
         //Library library = new Library(10);
 /*
